@@ -4,13 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-```javascript
-function helloWorld() {
-    console.log("Merhaba, dünya!");
-}
-
-
-<!---
-rrspiegel/rrspiegel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Hoşgeldiniz](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fshinji-shinji-ikari-club-penguin-penguin-dancing-club-penguin-dance-gif-24029283&psig=AOvVaw35CVjaT2KxDRodQ11nSg5v&ust=1701140543563000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjA3ryY44IDFQAAAAAdAAAAABAR)
